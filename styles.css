@@ -45,6 +45,9 @@ main {
   margin-top: 2.5rem;
   color: rgba(0, 0, 0, 0.3);
 }
+.utility:hover {
+  box-shadow: 1px 1px 33px 0px rgba(135, 163, 173, 1);
+}
 img {
   width: 1.5rem;
 }
